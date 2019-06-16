@@ -14,6 +14,7 @@ include ":languages:french:pack", ":languages:french:apk"
 include ':languages:greek:pack', ':languages:greek:apk'
 include ':languages:hebrew:pack', ':languages:hebrew:apk'
 include ':languages:indonesian:pack', ':languages:indonesian:apk'
+include ':languages:inupiaq:pack', ':languages:inupiaq:apk'
 include ':languages:italian:pack', ':languages:italian:apk'
 include ':languages:nias:pack', ':languages:nias:apk'
 include ':languages:ossturkish:pack', ':languages:ossturkish:apk'
