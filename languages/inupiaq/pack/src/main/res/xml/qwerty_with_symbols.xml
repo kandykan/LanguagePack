@@ -2,7 +2,7 @@
 
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:ask="http://schemas.android.com/apk/res-auto"
-          android:keyWidth="9%p"
+          android:keyWidth="9.09%p"
 	  >
     <Row>
         <!-- Key attributes:
@@ -39,7 +39,7 @@
         <Key android:codes="k"/>
         <Key android:codes="l"/>
         <Key android:codes="ġ"/>
-        <Key android:codes="̣" android:keyEdgeFlags="right"/>
+        <Key android:codes="̣" android:keyLabel="◌̣" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
@@ -50,7 +50,7 @@
         <Key android:codes="c"/>
         <Key android:codes="v"/>
         <Key android:codes="b"/>
-        <Key android:codes="n" android:popupCharacters="ñ"/>
+        <Key android:codes="n" android:popupCharacters="ñ" ask:hintLabel="ñ"/>
         <Key android:codes="m"/>
         <Key android:codes="ŋ"/>
         <Key android:horizontalGap="0.03%p" android:keyWidth="13.6%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
