@@ -2,7 +2,7 @@
 
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:ask="http://schemas.android.com/apk/res-auto"
-          android:keyWidth="10%p"
+          android:keyWidth="8.3%p"
 	  >
     <Row>
         <!-- Key attributes:
@@ -18,39 +18,43 @@
         <Key android:codes="q" android:keyEdgeFlags="left"/>
         <Key android:codes="w"/>
         <Key android:codes="e"/>
-        <Key android:codes="r" android:popupCharacters="r̂" ask:hintLabel="r̂"/>
+        <Key android:codes="r"/>
         <Key android:codes="t"/>
         <Key android:codes="y"/>
         <Key android:codes="u"/>
         <Key android:codes="i"/>
         <Key android:codes="o"/>
-        <Key android:codes="p" android:keyEdgeFlags="right"/>
+        <Key android:codes="p"/>
+        <Key android:codes="ñ"/>
+        <Key android:codes="ł" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
-        <Key android:codes="a" android:keyEdgeFlags="left"/>
+        <Key android:horizontalGap="4.2%p" android:codes="a" android:keyEdgeFlags="left"/>
         <Key android:codes="s"/>
         <Key android:codes="d"/>
         <Key android:codes="f"/>
-        <Key android:codes="g" android:popupCharacters="ġ" ask:hintLabel="ġ"/>
+        <Key android:codes="g"/>
         <Key android:codes="h"/>
         <Key android:codes="j"/>
-        <Key android:codes="k" android:popupCharacters="ḳ" ask:hintLabel="ḳ"/>
-        <Key android:codes="l" android:popupCharacters="ḷ" ask:hintLabel="ḷ"/>
-        <Key android:codes="ł" android:popupCharacters="ł̣" ask:hintLabel="ł̣"
-             android:keyEdgeFlags="right"/>
+        <Key android:codes="k"/>
+        <Key android:codes="l"/>
+        <Key android:codes="ġ"/>
+    <Key ask:isFunctional="true" android:codes="\u0027" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
-        <Key android:codes="-1" android:keyWidth="15%p"
+        <Key android:codes="-1" android:keyWidth="12.5%p"
              android:isModifier="true" android:isSticky="true" android:keyEdgeFlags="left"/>
         <Key android:codes="z"/>
         <Key android:codes="x"/>
         <Key android:codes="c"/>
         <Key android:codes="v"/>
         <Key android:codes="b"/>
-        <Key android:codes="n" android:popupCharacters="&lt;«ñŋ" ask:hintLabel="ñ ŋ"/>
+        <Key android:codes="n"/>
         <Key android:codes="m"/>
-        <Key android:keyWidth="15%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
+        <Key android:codes="ŋ"/>
+        <Key android:codes="̣"/>
+        <Key android:keyWidth="12.5%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
     </Row>
 </Keyboard>

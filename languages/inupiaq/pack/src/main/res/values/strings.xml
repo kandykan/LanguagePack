@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="keyboard_qwerty_with_symbols_name">QWERTY</string>
+    <string name="keyboard_qwerty_with_symbols_name">Iñupiaq</string>
     <string name="keyboard_qwerty_with_symbols_description">Iñupiaq keyboard - QWERTY layout with symbols</string>
 </resources>
