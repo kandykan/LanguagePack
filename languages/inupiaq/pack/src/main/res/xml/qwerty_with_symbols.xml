@@ -2,7 +2,7 @@
 
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:ask="http://schemas.android.com/apk/res-auto"
-          android:keyWidth="8.33%p"
+          android:keyWidth="9%p"
 	  >
     <Row>
         <!-- Key attributes:
@@ -25,12 +25,11 @@
         <Key android:codes="i"/>
         <Key android:codes="o"/>
         <Key android:codes="p"/>
-        <Key android:codes="ñ"/>
         <Key android:codes="ł" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
-        <Key android:horizontalGap="4.17%p" android:codes="a" android:keyEdgeFlags="left"/>
+        <Key android:codes="a" android:keyEdgeFlags="left"/>
         <Key android:codes="s"/>
         <Key android:codes="d"/>
         <Key android:codes="f"/>
@@ -44,16 +43,16 @@
     </Row>
 
     <Row>
-        <Key android:codes="-1" android:keyWidth="16.6%p"
+        <Key android:codes="-1" android:keyWidth="13.6%p"
              android:isModifier="true" android:isSticky="true" android:keyEdgeFlags="left"/>
-        <Key android:horizontalGap="0.06%p" android:codes="z"/>
+        <Key android:horizontalGap="0.03%p" android:codes="z"/>
         <Key android:codes="x"/>
         <Key android:codes="c"/>
         <Key android:codes="v"/>
         <Key android:codes="b"/>
-        <Key android:codes="n"/>
+        <Key android:codes="n" android:popupCharacters="ñ"/>
         <Key android:codes="m"/>
         <Key android:codes="ŋ"/>
-        <Key android:horizontalGap="0.06%p" android:keyWidth="16.6%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
+        <Key android:horizontalGap="0.03%p" android:keyWidth="13.6%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
     </Row>
 </Keyboard>
