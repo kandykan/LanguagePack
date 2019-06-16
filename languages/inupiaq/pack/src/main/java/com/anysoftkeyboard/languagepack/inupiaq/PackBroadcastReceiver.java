@@ -1,4 +1,4 @@
-package com.anysoftkeyboard.languagepack.french;
+package com.anysoftkeyboard.languagepack.inupiaq;
 
 import com.anysoftkeyboard.addon.PackBroadcastReceiverBase;
 
