@@ -2,7 +2,7 @@
 
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
           xmlns:ask="http://schemas.android.com/apk/res-auto"
-          android:keyWidth="8.3%p"
+          android:keyWidth="8.33%p"
 	  >
     <Row>
         <!-- Key attributes:
@@ -15,7 +15,8 @@
          "android:keyWidth" : specify the width of this key
          "ask:hintLabel" : hint for popup character(s)
          -->
-        <Key android:codes="q" android:keyEdgeFlags="left"/>
+        <Key android:codes="̣" android:keyEdgeFlags="left"/>
+        <Key android:codes="q"/>
         <Key android:codes="w"/>
         <Key android:codes="e"/>
         <Key android:codes="r"/>
@@ -25,12 +26,11 @@
         <Key android:codes="i"/>
         <Key android:codes="o"/>
         <Key android:codes="p"/>
-        <Key android:codes="ñ"/>
         <Key android:codes="ł" android:keyEdgeFlags="right"/>
     </Row>
 
     <Row>
-        <Key android:horizontalGap="4.2%p" android:codes="a" android:keyEdgeFlags="left"/>
+        <Key android:horizontalGap="4.17%p" android:codes="a" android:keyEdgeFlags="left"/>
         <Key android:codes="s"/>
         <Key android:codes="d"/>
         <Key android:codes="f"/>
@@ -44,17 +44,17 @@
     </Row>
 
     <Row>
-        <Key android:codes="-1" android:keyWidth="12.5%p"
+        <Key android:codes="-1" android:keyWidth="12.4%p"
              android:isModifier="true" android:isSticky="true" android:keyEdgeFlags="left"/>
-        <Key android:codes="z"/>
+        <Key android:horizontalGap="0.1%p" android:codes="z"/>
         <Key android:codes="x"/>
         <Key android:codes="c"/>
         <Key android:codes="v"/>
         <Key android:codes="b"/>
         <Key android:codes="n"/>
         <Key android:codes="m"/>
+        <Key android:codes="ñ"/>
         <Key android:codes="ŋ"/>
-        <Key android:codes="̣"/>
-        <Key android:keyWidth="12.5%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
+        <Key android:horizontalGap="0.1%p" android:keyWidth="12.4%p" android:codes="-5" android:keyEdgeFlags="right" android:isRepeatable="true"/>
     </Row>
 </Keyboard>
