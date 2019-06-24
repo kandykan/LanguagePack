@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionaries>
+    <Dictionary
+        autoTextResourceId="@xml/chukchi_autotext"
+        description="@string/chukchi_dictionary_description"
+        dictionaryResourceId="@array/chukchi_words_dict_array"
+        id="be7930c8-535f-4ffe-88e9-1507999953a9"
+        initialSuggestions="@array/chukchi_initial_suggestions"
+        locale="ckt"
+        nameResId="@string/chukchi_dictionary"
+        type="binary_resource" />
+</Dictionaries>

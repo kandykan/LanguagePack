@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+    <Keyboard
+        nameResId="@string/chukchi_keyboard_name"
+        iconResId="@drawable/ic_status_chukchi"
+        layoutResId="@xml/cyrillic_qwerty"
+        landscapeResId="@xml/cyrillic_qwerty"
+        id="d9278efb-4f39-401e-9380-30a4d1a49e27"
+        defaultDictionaryLocale="ckt"
+        description="@string/chukchi_keyboard_description"
+        index="1" />
+</Keyboards>

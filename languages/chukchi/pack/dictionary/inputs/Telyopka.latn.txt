@@ -1,0 +1,20 @@
+0001	telʲopkaqaj telʲopkaqaj anə qəɣəwjekwi .
+0002	iwke ɣəto quŋeɬɣi telʲopkaqaj .
+0003	əmməmeqej əmməmeqej anə təʔenqerkən .
+0004	iwke ɣənan quŋeɬɣi .
+0005	ɣəmo məjəɬqerkən .
+0006	telʲopkaqaj telʲopkaqaj anə qajməɣe qajməɣe .
+0007	telʲopkaqaj telʲopkaqaj anə qəɣəwjekwi .
+0008	iwke ɣəto qajməɣe telʲopkaqaj .
+0009	əmməmeqej əmməmeqej anə təʔenqerkən .
+0010	iwke ɣənan qajməɣe .
+0011	ɣəmo məjəɬqerkən .
+0012	əmməmeqej telʲopkaqaj telʲopkaqaj anə qəɣəwjekwi .
+0013	iwke ɣənan qəwintetɣi telʲopkaqaj .
+0014	telʲopka əmməmeqej əmməmeqej anə təʔenqerkən .
+0015	iwke ɣənan qəwintetɣi .
+0016	ɣəmo məjəɬqerkən .
+0017	telʲopkaqaj telʲopkaqaj anə qəɣəwjekwi .
+0018	ʔemi ɣəmnin wonnəqaj iwke məqametwaɣʔak əmməmeqej əmməmeqej ʔemi ɣəmnin majŋəwonnə iwke ɣəmo neməqej məqametwaɣʔak ɣəto ɣuŋeɬiɣət etɬə .
+0019	ɣajmeɣət etɬə .
+0020	ɣəwintetiɣət etɬə .
