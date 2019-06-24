@@ -7,6 +7,7 @@ include ':languages:afrikaans_oss:pack', ':languages:afrikaans_oss:apk'
 include ':languages:armenian2:pack', ':languages:armenian2:apk'
 include ':languages:brazilian:pack', ':languages:brazilian:apk'
 include ":languages:catalan:pack", ":languages:catalan:apk"
+include ":languages:chukchi:pack", ":languages:chukchi:apk"
 include ":languages:czech:pack", ":languages:czech:apk"
 include ':languages:english:pack', ':languages:english:apk'
 include ':languages:finnish:pack', ':languages:finnish:apk'
