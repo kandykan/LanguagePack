@@ -1,9 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.anysoftkeyboard.languagepack.english.pack">
+          package="com.anysoftkeyboard.languagepack.chukchi.pack">
 
     <application>
         <receiver
-            android:name="com.anysoftkeyboard.languagepack.english.PackBroadcastReceiver"
+            android:name="com.anysoftkeyboard.languagepack.chukchi.PackBroadcastReceiver"
             android:exported="true">
             <intent-filter>
                 <action android:name="com.menny.android.anysoftkeyboard.KEYBOARD" />
@@ -22,10 +22,10 @@
 
             <meta-data
                 android:name="com.menny.android.anysoftkeyboard.keyboards"
-                android:resource="@xml/english_keyboards" />
+                android:resource="@xml/chukchi_keyboards" />
             <meta-data
                 android:name="com.menny.android.anysoftkeyboard.dictionaries"
-                android:resource="@xml/english_dictionaries" />
+                android:resource="@xml/chukchi_dictionaries" />
         </receiver>
     </application>
 </manifest>

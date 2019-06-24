@@ -3,5 +3,5 @@ ext.shouldBePublished = false
 apply from: "$rootDir/gradle/pack_apk.gradle"
 
 dependencies {
-    implementation project(path: ':languages:english:pack')
+    implementation project(path: ':languages:chukchi:pack')
 }
